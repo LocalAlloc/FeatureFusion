@@ -1,8 +1,0 @@
-﻿  MBRRevitalizer.cpp
-D:\source\repos\FeatureFusion\MBRRevitalizer.h(213,34): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
-  Generating code
-  3 of 267 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  FeatureFusion.vcxproj -> D:\source\repos\FeatureFusion\Release\FeatureFusion.exe
